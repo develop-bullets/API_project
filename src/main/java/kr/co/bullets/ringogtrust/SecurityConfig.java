@@ -52,9 +52,9 @@ public class SecurityConfig {
 //                        .defaultSuccessUrl("/")
 //        );
 
-        http.logout((logout) ->
-                logout.logoutSuccessUrl("/logout")
-        );
+//        http.logout((logout) ->
+//                logout.logoutSuccessUrl("/logout")
+//        );
 
         return http.build();
     }
