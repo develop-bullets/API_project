@@ -1,4 +1,4 @@
-package kr.co.bullets.ringogtrust;
+package kr.co.bullets.ringogtrust.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
